@@ -1,7 +1,7 @@
 # Tema-4-Log-stica-Last-Mile
 Last Mile
 
-O Last Mile é um projeto orientado pelo professor Husdson Neves, onde foi gerado uma solução completa para gestão e otimização de entregas (last mile). O aplicativo conecta entregadores e clientes final a cadeia de entrega de forma eficiente, transparente e segura, contando com navegação própria, comunicação em tempo real e sistema de reputação mútuo.
+O Last Mile é um projeto orientado pelo professor Hudson Neves, onde foi gerado uma solução completa para gestão e otimização de entregas (last mile). O aplicativo conecta entregadores e clientes final a cadeia de entrega de forma eficiente, transparente e segura, contando com navegação própria, comunicação em tempo real e sistema de reputação mútuo.
 
 🚀 Funcionalidades Principais
 
